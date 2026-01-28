@@ -1,96 +1,74 @@
 {
-  "name": "John Doe",
-  "title": "Senior Software Engineer",
-  "email": "john.doe@example.com",
-  "phone": "+1 (555) 123-4567",
-  "location": "San Francisco, CA",
-  "website": "https://johndoe.com",
-  "linkedin": "https://linkedin.com/in/johndoe",
-  "github": "https://github.com/johndoe",
-  "summary": "Experienced software engineer with a passion for creating efficient and scalable web applications. Skilled in React, Node.js, and cloud technologies.",
+  "name": "Andrew Salim",
+  "title": "Student",
+  "email": "andrewsalim9@gmail.com",
+  "phone": "+62 856 5080 0923",
+  "location": "Malang, Jawa Timur",
+  "website": "",
+  "linkedin": "https://www.linkedin.com/in/andrew-salim-18a474251/",
+  "github": "https://github.com/andrewsalim101",
+  "summary": "Saya mahasiswa Teknik Informatika dengan pengalaman di bidang pengolahan citra digital dan visi komputer. Saya memiliki antusiasme untuk mempelajari model-model visi komputer untuk klasifikasi citra, deteksi objek, serta restorasi atau perbaikan citra. Saya memiliki pengalaman selama 1 tahun dalam penggunaan Python, Pytorch, OpenCV, Pandas, dan Linux shell scripting. Saya juga memiliki kemampuan untuk penggunaan Docker atau Podman.",
   "skills": [
     {
       "category": "Programming Languages",
       "items": [
-        "JavaScript",
-        "TypeScript",
-        "Python",
-        "Go"
+        "Python"
       ]
     },
     {
       "category": "Frontend",
       "items": [
-        "React",
-        "Vue.js",
-        "HTML5",
-        "CSS3",
-        "Tailwind CSS"
+        
       ]
     },
     {
       "category": "Backend",
       "items": [
-        "Node.js",
-        "Express",
-        "Django",
-        "GraphQL"
+        
       ]
     },
     {
       "category": "Databases",
       "items": [
-        "MongoDB",
-        "PostgreSQL",
-        "Redis"
+        
       ]
     },
     {
       "category": "DevOps",
       "items": [
-        "Docker",
-        "Kubernetes",
-        "AWS",
-        "CI/CD"
+        
       ]
     }
   ],
   "experience": [
     {
-      "title": "Senior Software Engineer",
-      "company": "Tech Innovators Inc.",
-      "location": "San Francisco, CA",
-      "date": "Jan 2020 - Present",
+      "title": "Praktik Kerja Lapangan (PKL)",
+      "company": "Universitas Brawijaya",
+      "location": "Malang, Jawa Timur",
+      "date": "Jan 2025 - June 2025",
       "achievements": [
-        "Led the development of a microservices architecture, improving system scalability by 200%",
-        "Implemented a new CI/CD pipeline, reducing deployment time by 50%",
-        "Mentored junior developers, increasing team productivity by 30%"
+        "Pengambilan data berupa gambar dari video pengendara mobil dengan OpenCV berdasarkan waktu yang telah ditentukan pada dokumen Excel.",
+        "Pengambilan data citra dari video klip ekspresi wajah pelajar dari dataset DaiSEE",
+        "Pembuatan model klasifikasi emosi berdasarkan wajah pelajar dengan MediaPipe serta Extra Trees, CatBoost, dan Random Forest"
       ]
     },
     {
-      "title": "Software Engineer",
-      "company": "StartUp Solutions",
-      "location": "New York, NY",
+      "title": "Wakil Kepala Departemen Humas Hubungan Luar Negeri",
+      "company": "Himpunan Mahasiswa Departemen Teknik Informatika (HMDTIF) Universitas Brawijaya",
+      "location": "Malang, Jawa Timur",
       "date": "Jun 2017 - Dec 2019",
       "achievements": [
-        "Developed a real-time analytics dashboard using React and D3.js",
-        "Optimized database queries, improving application response time by 40%",
-        "Contributed to open-source projects, gaining recognition in the developer community"
+        "Merancang tugas-tugas humas bagian eksternal",
+        "Menjalankan program kerja humas bagian eksternal meliput media partner, kunjungan antar himpunan, apresiasi wisudawan, dan kunjungan industri"
       ]
     }
   ],
   "education": [
     {
-      "degree": "Master of Science in Computer Science",
-      "school": "Stanford University",
-      "location": "Stanford, CA",
-      "date": "2015 - 2017"
-    },
-    {
-      "degree": "Bachelor of Science in Software Engineering",
-      "school": "Massachusetts Institute of Technology",
-      "location": "Cambridge, MA",
-      "date": "2011 - 2015"
+      "degree": "Sarjana Teknik Informatika",
+      "school": "Universitas Brawijaya",
+      "location": "Malang, Jawa Timur",
+      "date": "2020 - saat ini"
     }
   ],
   "certifications": [
@@ -107,12 +85,12 @@
   ],
   "languages": [
     {
-      "language": "English",
-      "proficiency": "Native"
+      "language": "Indonesia",
+      "proficiency": "Aktif"
     },
     {
-      "language": "Spanish",
-      "proficiency": "Intermediate"
+      "language": "Bahasa Inggris",
+      "proficiency": "Menengah"
     }
   ]
 }
